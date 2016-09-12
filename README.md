@@ -1,2 +1,1 @@
-# computationalphysics_N2014301020176
-计算物理作业
+# Homework list

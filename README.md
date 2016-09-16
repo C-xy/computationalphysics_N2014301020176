@@ -1,6 +1,6 @@
 # Homework list
 ## 曹昕宇
-- [ ] [Exercise01:]()
+- [x] [Exercise01:](https://www.zybuluo.com/c-xy/note/503289)
 - [ ] [Exercise02:]()
 - [ ] [Exercise03:]()
 - [ ] [Exercise04:]()

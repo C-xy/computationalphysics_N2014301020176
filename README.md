@@ -2,7 +2,7 @@
 ## 曹昕宇
 - [x] [Exercise02:在屏幕上用字母拼出自己的英文名字](https://www.zybuluo.com/c-xy/note/503289)
 - [x] [Exercise03:图像的平移与旋转](https://www.zybuluo.com/c-xy/note/513294)
-- [ ] [Exercise04:]()
+- [x] [Exercise04:Problem 1.5](https://www.zybuluo.com/c-xy/note/525886)
 - [ ] [Exercise05:]()
 - [ ] [Exercise06:]()
 - [ ] [Exercise07:]()

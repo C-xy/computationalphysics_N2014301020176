@@ -5,6 +5,6 @@
 - [x] [Exercise04:Problem 1.5](https://www.zybuluo.com/c-xy/note/525886)
 - [x] [Exercise05:Problem 2.6](https://www.zybuluo.com/c-xy/note/534170)
 - [x] [Exercise06:Problem 2.10](https://www.zybuluo.com/c-xy/note/542507)
-- [ ] [Exercise07:Problem 3.12 3.13 3.14](https://www.zybuluo.com/c-xy/note/558006)
+- [x] [Exercise07:Problem 3.12 3.13 3.14](https://www.zybuluo.com/c-xy/note/558006)
 - [ ] [Exercise08:]()
 - [ ] [Exercise09:]()

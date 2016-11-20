@@ -6,5 +6,5 @@
 - [x] [Exercise05:Problem 2.6](https://www.zybuluo.com/c-xy/note/534170)
 - [x] [Exercise06:Problem 2.10](https://www.zybuluo.com/c-xy/note/542507)
 - [x] [Exercise07:Problem 3.12 3.13 3.14](https://www.zybuluo.com/c-xy/note/558006)
-- [ ] [Exercise08:]()
-- [ ] [Exercise09:]()
+- [x] [Exercise08:Problem 3.20](https://www.zybuluo.com/LP2014301020146/note/565768)
+- [x] [Exercise09:the lorenz model and the billiard problem](https://www.zybuluo.com/c-xy/note/573697)

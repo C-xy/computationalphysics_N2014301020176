@@ -8,4 +8,4 @@
 - [x] [Exercise07:Problem 3.12 3.13 3.14](https://www.zybuluo.com/c-xy/note/558006)
 - [x] [Exercise08:Problem 3.20](https://www.zybuluo.com/LP2014301020146/note/565768)
 - [x] [Exercise09:the lorenz model and the billiard problem](https://www.zybuluo.com/c-xy/note/573697)
-- [x] [Exercise09:Problem 4.9](https://www.zybuluo.com/c-xy/note/581846)
+- [x] [Exercise10:Problem 4.9](https://www.zybuluo.com/c-xy/note/581846)

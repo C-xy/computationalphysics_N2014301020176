@@ -10,3 +10,4 @@
 - [x] [Exercise09:the lorenz model and the billiard problem](https://www.zybuluo.com/c-xy/note/573697)
 - [x] [Exercise10:Problem 4.9](https://www.zybuluo.com/c-xy/note/581846)
 - [x] [Exercise11](https://www.zybuluo.com/c-xy/note/590049)
+- [x] [Exercise12:exercise12](https://www.zybuluo.com/c-xy/note/597927)

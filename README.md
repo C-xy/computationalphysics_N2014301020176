@@ -14,5 +14,5 @@
 - [x] [Exercise13](https://www.zybuluo.com/c-xy/note/606413)
 - [ ] [**期末作业**](https://www.zybuluo.com/c-xy/note/625546)
 
-[我最近写的一个关于汉诺塔的小程序，欢迎有兴趣的同学看一下。2016.12](https://github.com/C-xy/computationalphysics_N2014301020176/blob/master/HanoiTower.md)
+[**我最近写的一个关于汉诺塔的小程序，欢迎有兴趣的同学看一下。2016.12**](https://github.com/C-xy/computationalphysics_N2014301020176/blob/master/HanoiTower.md)
 
